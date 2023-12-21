@@ -19,10 +19,18 @@ Print the values it would be interchanged
 ### Step 6: 
 End the program
 ## Program:
+<<<<<<< HEAD
 # Program to circulate N values.
 ```
 Developed by: JEGATHEESWARI R
 RegisterNumber:23013697
+=======
+
+# Program to circulate N values.
+# Developed by: JEGATHEESWARI R
+# RegisterNumber:23013697
+```
+>>>>>>> 64f5bbc4d14e4f8375b2eb25496addc095e3f9b8
 def circulate():
    l=eval(input())
    n=int(input())
@@ -31,5 +39,12 @@ def circulate():
 ```
 ## Output:
 ![output](circulate.png)
+<<<<<<< HEAD
 ## Result:
 Completed successfully.
+=======
+
+
+## Result:
+Successfully completed.
+>>>>>>> 64f5bbc4d14e4f8375b2eb25496addc095e3f9b8
